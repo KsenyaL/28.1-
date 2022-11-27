@@ -34,6 +34,7 @@ test_registration_page_и_continue_button
 Тестовый пример №5
 test_registration_page_with_empty_name_field
 Регистрация пользователя с пустым полем "Имя", появления текста с подсказкой об ошибке
+
 Тестовый пример №6
 test_registration_with_an_incorrect_value_in_the_name_field
 Регистрация пользователя с некорректным значением в поле "Имя" (< 2 символов)
